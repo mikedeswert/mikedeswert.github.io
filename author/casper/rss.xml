@@ -12,6 +12,57 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Build Stuff 2016 - Day 0</title>
+	  <link>//build-stuff-2016-day-0</link>
+	  <author>Mike De Swert</author>
+	  <pubDate>2016-11-15T20:19:00+00:00</pubDate>
+	  <guid>//build-stuff-2016-day-0</guid>
+	  <description><![CDATA[
+	     <p>After a cancelled train ride, a chaotic taxi drive and a 2 hour flight, I finally made it to the Radisson BLU hotel in Vilnius, Lithuania.<br />
+This will be the location of this year’s <a href="http://www.buildstuff.lt/">Build Stuff 2016</a>, a software development conference that invites world-class speakers to talk about a variety of topics.</p>
+
+<p>Being able to attend this conference was actually the trigger for creating this blog. Over the years, my company (<a href="https://www.cegeka.com/en">Cegeka</a>) has enabled me to go to several conferences; this time I wanted to give something back.
+This post will be the start of a 3-day marathon, attending, interpreting and summarizing the events of Build Stuff 2016.</p>
+
+<p>The conference started out with a small event that was free to attend. Two talks were given, one by Chris Condron (<a href="https://twitter.com/condron">@Condron</a>) and another by Dan North (<a href="https://twitter.com/tastapod">@tastapod</a>), followed by free beer.
+Unfortunately I was only able to attend the last 15 minutes or so of Dan North’s talk about “Event Storming for fun and profit”, but I will try to recount them nevertheless.</p>
+
+<h3 id="event-storming-for-fun-and-profit">Event Storming for fun and profit</h3>
+
+<p>When facilitating an event storm session you will likely run into people that fall into one of the following categories:</p>
+
+<ul>
+  <li>The <strong>disruptor</strong></li>
+  <li>The <strong>know-it-all</strong><br />
+  This person thinks he has the model all figured out, but when comparing his perspective to that of the other participants you will see that it’s actually quite different.</li>
+  <li>The <strong>wallflower</strong><br />
+  This person is an introvert and just being around other people and engaging with them can drain their energy.</li>
+  <li>The <strong>“helper”</strong><br />
+  This person thinks he’s helping, but is not actually contributing to the exercise. It might be that he/she is just looking for a way to seem busy, instead of being engaged with the actual modelling exercise.</li>
+  <li>The <strong>actual helper</strong><br />
+  This person is actually helping e.g. by subtly alerting you to people not fully engaging in the exercise.</li>
+  <li>The <strong>surprise star</strong><br />
+  This person thought he/she could not bring anything to the table, but then apparently has a treasure of information.</li>
+</ul>
+
+<p>Afterwards, some interesting questions were raised.</p>
+
+<p><strong><em>Why events?</em></strong><br />
+Events are measurable, they can be tested. They are more flexible than expressing yourself in activities. For example: <em>Dan is watering the plants</em> instead of <em>The plants have been watered</em>.
+“Plants have been watered” as an event is more flexible than the activity of the events being watered.<br />
+Describing activities immediately locks down <strong>how</strong> to do something instead of focusing on what needs to be done. As long as the “plants watered” event occurs, we’re happy.</p>
+
+<p><strong><em>How could I organize an event storming session with a remote team?</em></strong><br />
+Strive for co-locality. If that is not possible, try to lean on technology to make everyone feel like they’re in the same room.</p>
+
+<p>So this rounds up day zero of the Build Stuff 2016 conference. Now if you’ll excuse me, I’m off to enjoy my free beer!</p>
+
+<p><img src="assets/images/2016-11-15-build-stuff-2016-day-0/beer.png" alt="Beer" /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>A Full and Comprehensive Style Test</title>
 	  <link>//a-full-and-comprehensive-style-test</link>
 	  <author>Mike De Swert</author>
